@@ -1,4 +1,21 @@
-no;gambar;teks_asli;bahan_asli;alergen_asli;status_halal
-1;1.jpg;tepung terigu, ikan tengiri, bawang cabai, penyedap rasa, garam, gula, minyak, kencur, & daun jeruk;tepung terigu,ikan tengiri,bawang, cabai, penyedap rasa gula, minyak, kencur, daun jeruk;gandum & gluten, ikan ;halal
-2;2.jpg;wheat flour,sugar vegetable oil, cocoa powder, full cream milk, banana powder, emulsifier(soya lecithin (e322)), salt caramel colour (e150d), banana flavour;wheat flour, sugar, vegetable oil, cocoa powder, full cream milk, banana powder, emulsifier, soya lecithin, e322, salt, caramel colour, e150d, banana flavour;gandum & gluten,susu,kedelai;halal
-3;3.jpg;tepung terigu(36,43%),tepung beras,pati kentang,gula pasir,bumbu creamy rose(60,00%)(mengandung susu,telur,penguat rasa monotrium glutamat,pemanis alami glikosida steviol),minyak kelapa sawit, penguat rasa mononatrium glutamat, pengatur keasaman,pengembang;tepung terigu,tepung beras,pati kentang,gula pasir,bumbu creamy rose,susu,telur,penguat rasa monotrium glutamat,pemanis alami, glikosida steviol,minyak kelapa sawit, penguat rasa mononatrium glutamat, pengatur keasaman,pengembang;gandum&gluten,telur,susu;halal
+no;gambar;teks_asli;alergen_asli;status_halal
+1;1.jpg;tepung terigu, ikan tengiri, bawang, cabai, penyedap rasa, garam, gula, minyak, kencur, daun jeruk;gandum & gluten, ikan;Halal Aman
+2;2.jpg;wheat flour, sugar, vegetable oil, cocoa powder, full cream milk, banana powder, emulsifier soya lecithin e322, salt, caramel colour e150d, banana flavor;gandum & gluten, susu, kedelai;Titik Kritis
+3;3.jpg;tepung terigu, tepung beras, pati kentang, gula pasir, bumbu creamy rose, susu, telur, mononatrium glutamat, glikosida steviol, minyak kelapa sawit, garam, pengatur keasaman, pengembang;gandum & gluten, susu, telur;Titik Kritis
+4;4.jpg;sugar, maltodextrin, acidity regulator, konjac powder, dietary fiber, carrageenan, salt, synthetic flavour, vegetable stabilizer, synthetic food colour;tidak ada;Titik Kritis
+5;5.jpg;gula, maltodekstrin, pengatur keasaman, konnyaku bubuk, serat pangan, karagenan, garam kalium, perisa sintetik, penstabil nabati, pewarna makanan sintetik;tidak ada;Titik Kritis
+6;6.jpg;sugar, maltodextrin, acidity regulator, carrageenan, konjac powder, dietary fiber, synthetic flavour, synthetic food colour;tidak ada;Titik Kritis
+7;7.jpg;sugar, maltodextrin, acidity regulator, carrageenan, konjac powder, dietary fiber, synthetic flavour, synthetic food colour;tidak ada;Titik Kritis
+8;8.jpg;sari kelapa, air, gula, perisa sintetik cocopandan, asam sitrat, natrium benzoat;tidak ada;Titik Kritis
+9;9.jpg;potatoes, palm olein oil, garlic chicken seasoning, monosodium glutamate, soy sauce, soybean, chicken powder;kedelai;Titik Kritis
+10;10.jpg;bananas, palm oil, sugar, flavors;tidak ada;Titik Kritis
+11;11.jpg;tepung terigu, minyak kelapa sawit, tepung beras, sapi panggang seasoning, gula, tepung tapioka, pati kentang, garam, kaldu sapi, garlic powder, ammonium bicarbonate, soda kue, baking powder, sunset yellow, tbhq;gandum & gluten;Titik Kritis
+12;12.jpg;wheat flour, sugar, vegetable oil, whey powder, cocoa powder, maltodextrin, corn starch, synthetic flavour, soy lecithin, egg, soy, hazelnut, peanut;gandum & gluten, susu, kedelai, telur, kacang pohon, kacang tanah;Titik Kritis
+13;13.jpg;potatoes, palm olein oil, seasoning, milk powder, soybean, wheat, beef extract;gandum & gluten, susu, kedelai;Titik Kritis
+14;14.jpg;rumput laut, minyak jagung, bumbu keju, susu, dinatrium ribonukleotida, garam;susu;Titik Kritis
+15;15.jpg;tepung terigu, telur, air, minyak nabati, bumbu, rempah-rempah;gandum & gluten, telur;Halal Aman
+16;16.jpg;terigu, ayam bubuk, minyak nabati, bawang putih bubuk, sulfit, perisa sintetik, gula pasir, garam, cabe bubuk, mononatrium glutamat, kalium sorbat;gandum & gluten, sulfit;Titik Kritis
+17;17.jpg;wheat flour, sugar, vegetable oil, full cream milk powder, synthetic milk flavour, monosodium glutamate, tartesszine;gandum & gluten, susu;Titik Kritis
+18;18.jpg;pati kentang, gula, maltodekstrin, sirup glukosa, telur, susu bubuk, premiks vitamin mineral, perisa sintetik;telur, susu;Titik Kritis
+19;19.jpg;jagung, beras putih, bayam bubuk, susu bubuk, bumbu non msg, vitamin premix, minyak, garam;susu;Halal Aman
+20;20.jpg;tepung terigu, kacang tanah, gula, minyak nabati, garam, kuning telur;gandum & gluten, kacang tanah, telur;Halal Aman
